@@ -1,6 +1,6 @@
 # exstremstartup
 
-FIXME
+Horrible code written during an extrem-startup session at Oslo Coding Dojo
 
 ## Prerequisites
 
